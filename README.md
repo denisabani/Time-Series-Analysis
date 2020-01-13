@@ -3,4 +3,4 @@
 These are select assignments submitted as part of a Time Series Analysis 
 course taken at the University of Toronto, St. George. 
 
-Code was developed in collaboration with Brian Nghiem. 
+Some code was developed in collaboration with Brian Nghiem. 
